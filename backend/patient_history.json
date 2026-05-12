@@ -1,0 +1,14 @@
+[
+  {
+    "patient_name": "ashu",
+    "age": 23,
+    "gender": 1,
+    "risk_score": 31.0,
+    "risk_level": "Medium Risk",
+    "cholesterol": 122,
+    "resting_bp": 160,
+    "max_heart_rate": 170,
+    "timestamp": "2026-05-12 15:58",
+    "id": 1
+  }
+]
