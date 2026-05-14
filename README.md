@@ -14,7 +14,7 @@
 > **"Development of an Explainable AI-Based Heart Disease Prediction and Risk Analysis System"**  
 > A full-stack ML project — built for academic, portfolio, and internship use.
 
-[Live Demo](#) · [API Docs](#api-documentation) · [Report Bug](issues) · [Request Feature](issues)
+[Live Demo](#https://heart-ai-three.vercel.app/) · [API Docs](#api-documentation) · [Report Bug](issues) · [Request Feature](issues)
 
 </div>
 
