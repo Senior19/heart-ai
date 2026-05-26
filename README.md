@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/badge/License-MIT-e11d48?style=for-the-badge)](LICENSE)
 
 > **"Development of an Explainable AI-Based Heart Disease Prediction and Risk Analysis System"**  
-> A full-stack ML project — built for academic, portfolio, and internship use.
+> A full-stack ML project — built for academic, portfolio, and internship use
 
 [Live Demo](https://heart-ai-three.vercel.app/) · [API Docs](#api-documentation) · [Report Bug](issues) · [Request Feature](issues)
 
