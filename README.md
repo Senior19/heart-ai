@@ -115,7 +115,7 @@ graph TB
     ML --> LR & RF & XG & SVM
     RF --> XAI
     H --> JSON
-    R --> PDF
+    R --> PDF.
 ```
 
 ---
