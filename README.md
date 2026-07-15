@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🫀 HeartAI
+# 🫀 HeartAI.
 
 ### Explainable AI-Based Heart Disease Prediction & Risk Analysis System
 
